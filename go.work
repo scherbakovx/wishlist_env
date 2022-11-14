@@ -1,0 +1,6 @@
+go 1.19
+
+use (
+	./wishlist_api
+	./wishlist_bot
+)

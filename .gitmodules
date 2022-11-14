@@ -1,0 +1,6 @@
+[submodule "wishlist_api"]
+	path = wishlist_api
+	url = https://github.com/scherbakovx/wishlist_api
+[submodule "wishlist_bot"]
+	path = wishlist_bot
+	url = https://github.com/scherbakovx/wishlist_bot
